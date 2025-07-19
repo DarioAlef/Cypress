@@ -1,0 +1,27 @@
+{
+  "usuarios": {
+    "valido": {
+      "username": "standard_user",
+      "password": "secret_sauce"
+    },
+    "invalido": {
+      "username": "usuario_inexistente", 
+      "password": "senha_errada"
+    },
+    "bloqueado": {
+      "username": "locked_out_user",
+      "password": "secret_sauce"
+    }
+  },
+  "produtos": [
+    "Sauce Labs Backpack",
+    "Sauce Labs Bike Light", 
+    "Sauce Labs Bolt T-Shirt",
+    "Sauce Labs Fleece Jacket",
+    "Sauce Labs Onesie"
+  ],
+  "dadosInuteis": {
+    "numeroMagico": 42,
+    "textoAleatorio": "isso nao serve para nada"
+  }
+}
